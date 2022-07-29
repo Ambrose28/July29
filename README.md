@@ -1,1 +1,2 @@
-#This is my first projectg
+#This is my first project
+# This is the second line.
